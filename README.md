@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohitkumar-ee&show_icons=true&theme=tokyonight)
+![Stats](https://streak-stats.demolab.com?user=mohitkumar-ee&theme=tokyonight&hide_border=true)
 
 ---
 
