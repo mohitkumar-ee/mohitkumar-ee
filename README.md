@@ -20,9 +20,12 @@
 
 | Project | Description |
 |---|---|
-| 🫁 Breath Ketone Analyzer | TGS1820 + ESP8266 — delivered to Lakshmibai Paramedical College |
+| 🫁 Breath Ketone Analyzer | TGS1820 + ESP8266 |
 | 📡 ESP8266 Radar System | HC-SR04 + Servo + PIR + Blynk 2.0 |
-| 💡 Auto Street Light | LDR + Arduino |
+| 💡 Auto Street Light | LDR + Arduino | 
+|automatic switch on/off extention board |HC-SR04 + buzzer + esp32|
+
+
 
 ---
 
