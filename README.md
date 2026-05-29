@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Mohit Kumar! 👋
 
-<!--
-**mohitkumar-ee/mohitkumar-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech EE | BIET Jhansi (2024–2028)  
+⚡ IoT & Embedded Systems Developer  
+📍 Jhansi, Uttar Pradesh, India  
+🔭 Currently exploring: Industrial Automation & ESP32 Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-teal)
+![C++](https://img.shields.io/badge/C++-Embedded-blue)
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🫁 Breath Ketone Analyzer | TGS1820 + ESP8266 — delivered to Lakshmibai Paramedical College |
+| 📡 ESP8266 Radar System | HC-SR04 + Servo + PIR + Blynk 2.0 |
+| 💡 Auto Street Light | LDR + Arduino |
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mohitkumar-ee&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mohit-kumar-eee)
